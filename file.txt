@@ -10,5 +10,8 @@ relleno:
 
 
 conclusion:
-    esto aun hay que hacerlo.
+    En conclusion , hay q trabajar para que el standard de git no sea Master, porque
+    sino siempre habrá una branch distinta
+    o sea nada que ver
+    
 
