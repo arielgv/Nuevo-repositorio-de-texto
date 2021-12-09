@@ -1,0 +1,11 @@
+Archivo nuevo creado de cero con la idea de pruebas
+linea numero 2
+
+
+relleno: 
+    esto aun hay que hacerlo
+
+
+conclusion:
+    esto aun hay que hacerlo.
+
