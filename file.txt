@@ -10,9 +10,8 @@ relleno:
 
 
 conclusion:
-    En conclusion , hay q trabajar para que el standard de git no sea Master, porque
-    sino siempre habrá una branch distinta
-    o sea nada que ver
+   esta es una conclusion modificada, nueva
+   FECHA 10/12/21
     
 
 esta nueva linea esta siendo agregada al ultimo como un agregado en la branch main
